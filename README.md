@@ -6,6 +6,7 @@
 1. Download .tgz package manually.
 
 https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/
+
 https://docs.qameta.io/allure/
 
 ```
